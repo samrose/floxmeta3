@@ -11,7 +11,15 @@
     },
     "1": {
       "lastActive": 1665423984
+    },
+    "3": {
+      "path": "/nix/store/mfzs3aa3cp0109cdfal8kxn2p8yzxwzq-profile",
+      "logMessage": [
+        "Generation 3->3: itest upgraded "
+      ],
+      "created": 1665424005,
+      "lastActive": 1665424030
     }
   },
-  "currentGen": "2"
+  "currentGen": "3"
 }
