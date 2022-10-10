@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "generations": {
+    "2": {
+      "path": "/nix/store/0zdsafjgba7przfxl43vwq8pb9r9xkyb-profile",
+      "logMessage": [
+        "Generation 1->2: itest removed stable.nixpkgs-flox.nyancat"
+      ],
+      "created": 1665423984,
+      "lastActive": 1665423984
+    },
+    "1": {
+      "lastActive": 1665423984
+    }
+  },
+  "currentGen": "2"
+}
