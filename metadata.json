@@ -26,8 +26,16 @@
         "Generation 3->4: samrose installed unstable.nixpkgs-flox.element-web.1_11_12"
       ],
       "created": 1667849285,
-      "lastActive": 1667849281
+      "lastActive": 1667849552
+    },
+    "5": {
+      "path": "/nix/store/mfzs3aa3cp0109cdfal8kxn2p8yzxwzq-profile",
+      "logMessage": [
+        "Generation 4->5: samrose removed unstable.nixpkgs-flox.element-web.1_11_12"
+      ],
+      "created": 1667849552,
+      "lastActive": 1667849552
     }
   },
-  "currentGen": "4"
+  "currentGen": "5"
 }
