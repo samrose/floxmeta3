@@ -31,6 +31,10 @@
   channel = "nixpkgs-flox"
   stability = "stable"
 
+  [packages."element-desktop.1_11_12"]
+  channel = "nixpkgs-flox"
+  stability = "unstable"
+
   [packages."fortune"]
   channel = "nixpkgs-flox"
   stability = "stable"
