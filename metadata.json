@@ -18,8 +18,16 @@
         "Generation 3->3: itest upgraded "
       ],
       "created": 1665424005,
-      "lastActive": 1665424030
+      "lastActive": 1667849281
+    },
+    "4": {
+      "path": "/nix/store/37bfrpzk16pl6c08qjqpkynhhx4l45yp-profile",
+      "logMessage": [
+        "Generation 3->4: samrose installed unstable.nixpkgs-flox.element-web.1_11_12"
+      ],
+      "created": 1667849285,
+      "lastActive": 1667849281
     }
   },
-  "currentGen": "3"
+  "currentGen": "4"
 }
