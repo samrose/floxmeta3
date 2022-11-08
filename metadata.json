@@ -74,8 +74,16 @@
         "Generation 9->10: samrose installed unstable.nixpkgs-flox.element-desktop.1_11_12"
       ],
       "created": 1667925596,
-      "lastActive": 1667925593
+      "lastActive": 1667925636
+    },
+    "11": {
+      "path": "/nix/store/mfzs3aa3cp0109cdfal8kxn2p8yzxwzq-profile",
+      "logMessage": [
+        "Generation 10->11: samrose removed unstable.nixpkgs-flox.element-desktop.1_11_12"
+      ],
+      "created": 1667925636,
+      "lastActive": 1667925636
     }
   },
-  "currentGen": "10"
+  "currentGen": "11"
 }
