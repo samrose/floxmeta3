@@ -35,6 +35,10 @@
   channel = "nixpkgs-flox"
   stability = "unstable"
 
+  [packages."flox-prerelease"]
+  channel = "flox"
+  stability = "stable"
+
   [packages."fortune"]
   channel = "nixpkgs-flox"
   stability = "stable"

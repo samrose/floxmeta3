@@ -122,8 +122,16 @@
         "Generation 15->16: samrose installed unstable.nixpkgs-flox.element-desktop.1_11_12"
       ],
       "created": 1668007856,
-      "lastActive": 1668007854
+      "lastActive": 1668116706
+    },
+    "17": {
+      "path": "/nix/store/cvi65i281dpgd6nhj7jv5vglhwlg6569-profile",
+      "logMessage": [
+        "Generation 16->17: samrose installed stable.flox.flox-prerelease"
+      ],
+      "created": 1668116716,
+      "lastActive": 1668116706
     }
   },
-  "currentGen": "16"
+  "currentGen": "17"
 }
