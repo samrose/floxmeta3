@@ -130,8 +130,16 @@
         "Generation 16->17: samrose installed stable.flox.flox-prerelease"
       ],
       "created": 1668116716,
-      "lastActive": 1668116706
+      "lastActive": 1669139566
+    },
+    "18": {
+      "path": "/nix/store/7d2vldj6qn49lrvrg81c7n45m3jqb54s-profile",
+      "logMessage": [
+        "Generation 17->18: samrose installed github:flox-examples/hello-phoenix#hello-phoenix"
+      ],
+      "created": 1669139615,
+      "lastActive": 1669139566
     }
   },
-  "currentGen": "17"
+  "currentGen": "18"
 }

@@ -27,6 +27,10 @@
 
 # ------------------------ >8 ------------------------
 [packages]
+  [packages.""]
+  channel = "github:flox-examples/hello-phoenix"
+  stability = "hello-phoenix"
+
   [packages."cowsay"]
   channel = "nixpkgs-flox"
   stability = "stable"
