@@ -146,8 +146,16 @@
         "Generation 18->19: samrose removed hello-phoenix.github:flox-examples/hello-phoenix."
       ],
       "created": 1669139651,
-      "lastActive": 1669139651
+      "lastActive": 1669139971
+    },
+    "20": {
+      "path": "/nix/store/8l6zbp3hnn47czl30aaslq3rk9rkls7y-profile",
+      "logMessage": [
+        "Generation 19->20: samrose installed github:flox-examples/jupyter-env#contextily"
+      ],
+      "created": 1669139977,
+      "lastActive": 1669139971
     }
   },
-  "currentGen": "19"
+  "currentGen": "20"
 }

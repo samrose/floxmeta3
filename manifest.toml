@@ -27,6 +27,10 @@
 
 # ------------------------ >8 ------------------------
 [packages]
+  [packages.""]
+  channel = "github:flox-examples/jupyter-env"
+  stability = "contextily"
+
   [packages."cowsay"]
   channel = "nixpkgs-flox"
   stability = "stable"
